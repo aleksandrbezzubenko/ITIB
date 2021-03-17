@@ -113,13 +113,13 @@ public:
 
 					if (characteristicVector[j] != '0') {
 
+						double delta = target_function[j] - Y;
+						double net = f_net();
 						for (int k = 0; k < 5; ++k) {
-
-							double delta = target_function[j] - Y;
 
 							if (is_sigmoid_tranning) {
 								weights[k] += learning_rate * delta *
-									Derivative_sigmoid_function(f_net()) * inputs[k];
+									Derivative_sigmoid_function(net) * inputs[k];
 							}
 							else {
 								weights[k] += learning_rate * delta * inputs[k];
