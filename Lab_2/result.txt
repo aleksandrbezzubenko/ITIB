@@ -1,0 +1,202 @@
+
+Change window size
+
+learning rate = 0.1
+Window size = 2
+Epoch: 7000; Error = 0.0191661
+Weights: -0.00045175 1.01998 1.60537
+
+learning rate = 0.1
+Window size = 3
+Epoch: 7000; Error = 0.00822735
+Weights: -0.000199543 0.0341247 0.984589 -0.298079
+
+learning rate = 0.1
+Window size = 4
+Epoch: 7000; Error = 0.00660773
+Weights: -0.000165193 -0.214956 1.1003 0.138778 0.723781
+
+learning rate = 0.1
+Window size = 5
+Epoch: 7000; Error = 0.00305014
+Weights: -7.87543e-05 -0.628874 0.853568 0.0382899 0.753226 0.146335
+
+learning rate = 0.1
+Window size = 6
+Epoch: 7000; Error = 0.00196099
+Weights: -5.24095e-05 -0.841117 0.744398 0.0190384 0.8137 0.278412 0.197064
+
+learning rate = 0.1
+Window size = 7
+Epoch: 7000; Error = 0.00110159
+Weights: -3.05526e-05 -0.980215 0.654958 -0.0271933 0.805694 0.304671 0.254365 0.0856769
+
+learning rate = 0.1
+Window size = 8
+Epoch: 7000; Error = 0.00162698
+Weights: -4.69668e-05 -1.07115 0.595776 -0.058714 0.798669 0.319621 0.289239 0.138773 0.0698859
+
+learning rate = 0.1
+Window size = 9
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.1
+Window size = 10
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+Change learning rate
+
+learning rate = 0.1
+Window size = 7
+Epoch: 7000; Error = 0.00227487
+Weights: -6.30937e-05 -0.154545 -0.00215959 0.130339 0.247527 0.352578 0.447782 0.534846
+
+learning rate = 0.2
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.3
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.4
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.5
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.6
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.7
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.8
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 0.9
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+learning rate = 1
+Window size = 7
+Epoch: 7000; Error = -nan(ind)
+Weights: -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind) -nan(ind)
+
+Change count epochs
+
+learning rate = 0.1
+Window size = 7
+Epoch: 500; Error = 0.00440421
+Weights: -0.000122151 0.133545 0.151943 0.168123 0.182587 0.195683 0.207664 0.218718
+
+learning rate = 0.1
+Window size = 7
+Epoch: 1000; Error = 0.00396722
+Weights: -0.000110031 0.0744154 0.120321 0.160375 0.195919 0.227882 0.256935 0.28358
+
+learning rate = 0.1
+Window size = 7
+Epoch: 1500; Error = 0.00339748
+Weights: -9.42293e-05 -0.00267336 0.0790902 0.15027 0.213298 0.269861 0.321178 0.368155
+
+learning rate = 0.1
+Window size = 7
+Epoch: 2000; Error = 0.0027732
+Weights: -7.69148e-05 -0.0871342 0.0339092 0.139191 0.232336 0.31586 0.391578 0.460842
+
+learning rate = 0.1
+Window size = 7
+Epoch: 2500; Error = 0.00216687
+Weights: -6.00983e-05 -0.169153 -0.00997724 0.12842 0.250818 0.360536 0.459964 0.550887
+
+learning rate = 0.1
+Window size = 7
+Epoch: 3000; Error = 0.00163237
+Weights: -4.52738e-05 -0.241438 -0.0486723 0.11891 0.2671 0.399919 0.520265 0.6303
+
+learning rate = 0.1
+Window size = 7
+Epoch: 3500; Error = 0.00119925
+Weights: -3.32611e-05 -0.299988 -0.0800375 0.111184 0.280279 0.431831 0.569149 0.694696
+
+learning rate = 0.1
+Window size = 7
+Epoch: 4000; Error = 0.000874184
+Weights: -2.42455e-05 -0.3439 -0.10359 0.10536 0.290151 0.455782 0.605863 0.743085
+
+learning rate = 0.1
+Window size = 7
+Epoch: 4500; Error = 0.000647125
+Weights: -1.7948e-05 -0.374533 -0.120056 0.10126 0.297022 0.47251 0.631541 0.776958
+
+learning rate = 0.1
+Window size = 7
+Epoch: 5000; Error = 0.000499018
+Weights: -1.38403e-05 -0.394468 -0.130816 0.0985478 0.301475 0.483421 0.64833 0.799141
+
+learning rate = 0.1
+Window size = 7
+Epoch: 5500; Error = 0.000408584
+Weights: -1.13321e-05 -0.406585 -0.137408 0.0968463 0.30416 0.490083 0.658628 0.812791
+
+learning rate = 0.1
+Window size = 7
+Epoch: 6000; Error = 0.0003568
+Weights: -9.89584e-06 -0.413458 -0.141208 0.0958191 0.305657 0.493896 0.66458 0.820729
+
+learning rate = 0.1
+Window size = 7
+Epoch: 6500; Error = 0.000328948
+Weights: -9.12338e-06 -0.417081 -0.143282 0.095206 0.306417 0.495945 0.667844 0.825138
+
+learning rate = 0.1
+Window size = 7
+Epoch: 7000; Error = 0.000314857
+Weights: -8.73256e-06 -0.418829 -0.144364 0.094827 0.306749 0.496981 0.669567 0.827528
+
+learning rate = 0.1
+Window size = 7
+Epoch: 7500; Error = 0.000308137
+Weights: -8.54617e-06 -0.419569 -0.144918 0.0945692 0.306849 0.497473 0.670468 0.828846
+
+learning rate = 0.1
+Window size = 7
+Epoch: 8000; Error = 0.000305103
+Weights: -8.46204e-06 -0.419798 -0.145209 0.0943673 0.306829 0.497693 0.670964 0.829638
+
+learning rate = 0.1
+Window size = 7
+Epoch: 8500; Error = 0.000303795
+Weights: -8.42575e-06 -0.419782 -0.14538 0.0941867 0.30675 0.497786 0.671275 0.830196
+
+learning rate = 0.1
+Window size = 7
+Epoch: 9000; Error = 0.000303242
+Weights: -8.41041e-06 -0.419653 -0.145501 0.0940103 0.306641 0.497824 0.67151 0.830662
+
+learning rate = 0.1
+Window size = 7
+Epoch: 9500; Error = 0.000302998
+Weights: -8.40365e-06 -0.41947 -0.145604 0.09383 0.306515 0.497838 0.67172 0.831105
+
+learning rate = 0.1
+Window size = 7
+Epoch: 10000; Error = 0.000302872
+Weights: -8.40016e-06 -0.41926 -0.145703 0.0936427 0.306379 0.497843 0.671926 0.831551
+Epoch: 7000; Error = 0.00227487
+Weights: -6.30937e-05 -0.154545 -0.00215959 0.130339 0.247527 0.352578 0.447782 0.534846
